@@ -1,0 +1,147 @@
+  /*font-family: 'Dancing Script', cursive;
+  font-family: 'Roboto', sans-serif;*/
+* {
+  padding: 0;
+  margin: 0;
+}
+  .container {
+    position: relative;
+    max-width: 1200px;
+  }
+
+  /* The actual timeline (the vertical ruler) */
+  .container::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: grey;
+
+    top: 0;
+    bottom: 0;
+    left: 33%;
+    margin-left: -3px;
+
+  }
+
+.row{
+  display: flex;
+  h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+  }
+  h2{
+    font-family: 'Dancing Script', cursive;
+  }
+  p{
+    font-family: 'Roboto', sans-serif;
+  }
+  .col_left{
+    background-color: #f4e3dc;
+    width: 30%;
+    padding-top: 60px;
+    padding-left: 50px;
+    margin-right: 45px;
+    img{
+      width: 50%;
+      height: 80%;
+    }
+    i {
+
+      padding-top: 10px;
+      padding-bottom: 10px;
+
+    }
+    a{
+      text-decoration: none;
+      color: black;
+    }
+    p{
+      font-family: 'Roboto', sans-serif;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+    #CSS{
+      margin-left: 55px;
+    }
+    #PHP{
+      margin-left: 45px;
+    }
+    #wordpress{
+      margin-left: 45px;
+    }
+    .taal{
+      padding-top: 30px;
+    }
+    .laatst{
+      margin-bottom: 100px;
+    }
+
+  }
+  .col_right{
+    background-color: white;
+    width: 60%;
+    padding-top: 60px;
+    padding-left: 55px;
+  .cv{
+  padding-top: 30px;
+  padding-left: 300px;
+}
+    .eerstelijn{
+      padding-top: 15px;
+    }
+    .eerst{
+    padding-top: 15px;
+    }
+    .nederlands{
+      padding-top: 15px;
+    }
+    .frans{
+      padding-top: 15px;
+    }
+    .engels{
+      padding-top: 15px;
+    }
+  }
+  }
+
+//Responsief maken van de pagina
+@media only screen and (max-width: 800px) {
+  .row {
+    display: inline-block;
+    float: left;
+    .col_left{
+      background-color: white;
+      #CSS{
+        margin-left: 0px;
+      }
+      #PHP{
+        margin-left: 0px;
+      }
+      #wordpress{
+        margin-left: 0px;
+      }
+    }
+    .col_right{
+      background-color: white;
+      .cv{
+        padding-top: 30px;
+        padding-left: 0px;
+      }
+    }
+    #werk{
+      padding-top: 0px;
+      padding-bottom: 50px;
+    }
+  }
+}
+ /* @media print {
+    #wordpress{
+      margin-left: 55px;
+    }
+  }*/
+
+
+
+
+
+

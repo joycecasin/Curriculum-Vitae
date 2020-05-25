@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ee994c5-6f27-4d35-a470-4ae725cb26ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1WrQ352ScFzCQW9NDPUgKFhHXVs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/wamp64/www/site1wordpress" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\Desktop\Webontwikkeling\Opdrachten\Online cv 2\scss" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ee994c5-6f27-4d35-a470-4ae725cb26ad" name="Default Changelist" comment="" />
+      <created>1579905031699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579905031699</updated>
+      <workItem from="1579905033461" duration="5453000" />
+      <workItem from="1581422805582" duration="1212000" />
+      <workItem from="1581534156959" duration="72000" />
+      <workItem from="1581938200423" duration="4599000" />
+      <workItem from="1582027490508" duration="9562000" />
+      <workItem from="1582049310683" duration="3124000" />
+      <workItem from="1582194237055" duration="104000" />
+      <workItem from="1582196382643" duration="583000" />
+      <workItem from="1582208082603" duration="1356000" />
+      <workItem from="1582272275090" duration="9984000" />
+      <workItem from="1582634353559" duration="12383000" />
+      <workItem from="1582729149472" duration="4778000" />
+      <workItem from="1582805202653" duration="8022000" />
+      <workItem from="1583003358354" duration="21071000" />
+      <workItem from="1583232839386" duration="12000" />
+      <workItem from="1583233088368" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1583233129597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583233129597" />
+    <state x="425" y="190" key="run.anything.popup" timestamp="1581948514888">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581948514888" />
+  </component>
+</project>
